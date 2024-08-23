@@ -1,2 +1,2 @@
 # Dry Hands
-This is a Minecraft datapack 
+This is a Minecraft datapack
